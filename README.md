@@ -31,5 +31,4 @@ The full presentation is available in:
 
 ## Author
 Ali Hussein Allawi
-![Quantum Computing Cover](<img width="1612" height="902" alt="Screenshot 2026-05-23 141443" src="https://github.com/user-attachments/assets/fb82959b-d1ee-4298-b339-17b559fabafe" />
-)
+
