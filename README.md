@@ -1,5 +1,5 @@
 # Nanomaterials in Quantum Computing
-
+![Quantum Computing Cover](Screenshot%202026-05-23%20141443.png)
 ## Overview
 This project explores the role of nanomaterials in building advanced quantum computing systems.
 
