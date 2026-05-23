@@ -26,8 +26,10 @@ Department of Medical Physics
 
 ## Presentation
 The full presentation is available in:
-- `presentation.pdf`
-- `presentation.pptx`
+- ## PowerPoint Presentation
+
+[Download PPTX](./Nanomaterials%20in%20Quantum%20Computing.pptx)
+
 
 ## Author
 Ali Hussein Allawi
