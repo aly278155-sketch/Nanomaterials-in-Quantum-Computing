@@ -25,11 +25,9 @@ Department of Medical Physics
 - Semiconductor Heterostructures
 
 ## Presentation
-The full presentation is available in:
-- ## PowerPoint Presentation
+## Presentation File
 
-[Download PPTX](./Nanomaterials%20in%20Quantum%20Computing.pptx)
-
+[Download PowerPoint](./Nanomaterials-in-Quantum-Computing.pptx)
 
 ## Author
 Ali Hussein Allawi
